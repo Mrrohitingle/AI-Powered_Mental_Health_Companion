@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79767323076",
+    "project_id": "authenti-f04f8",
+    "storage_bucket": "authenti-f04f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79767323076:android:df5b28bea71203c48ea491",
+        "android_client_info": {
+          "package_name": "com.example.yaddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79767323076-k7smp1e7ag8jp04n2a0l0mrqsane51q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yaddy",
+            "certificate_hash": "d26710e1111bb0a4c2d3fcf12175c1570a9fa6af"
+          }
+        },
+        {
+          "client_id": "79767323076-lvfol2daquruc8m8spr5nhn1qgbjmfhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPJY9nOLv2aWzoP4oDbCc0-KGbuNbGUG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79767323076-lvfol2daquruc8m8spr5nhn1qgbjmfhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
