@@ -22,7 +22,11 @@ The application follows a **client-server architecture** with the following comp
 1. **Frontend (Flutter App):** User-friendly UI for accessing chatbot, tests, and forums.  
 2. **Backend (Firebase, Python APIs):** Manages user data, authentication, and AI chatbot processing.  
 3. **AI Module:** NLP-based chatbot for real-time emotional support and suggestions.  
-4. **Database (Firestore):** Stores user interactions, test results, and community discussions.  
+4. **Database (Firestore):** Stores user interactions, test results, and community discussions.
+  
+## 📱 Download the App  
+[📥 Click here to download the APK](https://drive.google.com/file/d/1uqAC5VWELCnavRLL5uP7RwrdS0JNOHLX/view?usp=sharing)  
+
 
 ## **📌 Installation & Setup**  
 ### **🔹 Prerequisites**  
