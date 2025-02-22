@@ -45,7 +45,7 @@ Ensure you have the following installed on your system:
    flutter run  
 
 
-   ## 👨‍💻 Team Members  
+## 👨‍💻 Team Members  
 - **Rushikesh Raut**  
 - **Yadnesh Saindane**  
 - **Sujata Mandale**  
