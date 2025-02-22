@@ -38,10 +38,11 @@ Ensure you have the following installed on your system:
    git clone https://github.com/Mrrohitingle/AI-Powered_Mental_Health_Companion.git  
    cd AI-Powered_Mental_Health_Companion
 2. Install Dependencies
-```sh
-flutter pub get
+   ```sh
+   flutter pub get
 3. Run the app on an emulator or a connected device
-flutter run  
+   ```sh
+   flutter run  
 
 
    ## 👨‍💻 Team Members  
